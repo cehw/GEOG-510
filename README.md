@@ -9,6 +9,5 @@ All lectures will be posted here.
 All lab assignments will be posted here. 
 
 
-?????????
 
 this is a test.
